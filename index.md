@@ -11,22 +11,7 @@ footer_content:
 
 ![](https://i.imgur.com/jrDqZJV.png)
 
-People settle in villages and towns.  
-They bring order to their lives and surroundings.  
-Strict hierarchy and rules apply.  
-This pleases ***Law***.
 
-Dark places spread and fold and coil unto themselves.  
-Like an ever-growing virus.  
-They make the impermanent.  
-This pleases ***Chaos***.
-
-***Law*** and ***Chaos*** hate each other destructively.  
-They can only act on their hate through their acolytes.
-
-You led a normal life.  
-Not anymore.  
-You are now ***unsettled***.
 
 ---
 ## Appendix N
