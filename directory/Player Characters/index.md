@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sigisfarne
+title: Player Characters
 template: 0.4
 has_children: true
 nav_order: 51
