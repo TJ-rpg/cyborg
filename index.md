@@ -17,7 +17,7 @@ footer_content:
 
 <iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=tomjohnson1891/cy_borg/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="652" frameBorder="0" style="color-scheme: site" allowfullscreen=""></iframe>
 
-*Feel* the world, *listen* to the ***unsettled*** playlist.
+*Feel* the world, *listen* to the ***Cy_Borg*** playlist.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2sUxSAIZ3HIFs7Cjo9euON?si=827b530620e84900" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

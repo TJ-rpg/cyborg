@@ -1,4 +1,4 @@
-# Terra Campaigns Template
+# Cy_Borg Campaign Template
 
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
