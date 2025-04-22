@@ -19,4 +19,3 @@
 {% endfor %}
 {% endif %}
 
-{% include connected_to.html %}
