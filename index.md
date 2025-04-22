@@ -19,24 +19,24 @@ footer_content:
 
 *Feel* the world, *listen* to the ***unsettled*** playlist.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/playlist/2sUxSAIZ3HIFs7Cjo9euON?si=827b530620e84900" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2sUxSAIZ3HIFs7Cjo9euON?si=827b530620e84900" width="100%" height="452" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Films & Books
 
 [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) (1984 book)  
-[The Matrix](https://www.imdb.com/title/tt0133093/) (1999 film)
-[Blade Runner](https://www.imdb.com/title/tt0083658/) (1982 film)
+[The Matrix](https://www.imdb.com/title/tt0133093/) (1999 film)  
+[Blade Runner](https://www.imdb.com/title/tt0083658/) (1982 film) 
 
 ---
 ## Open Table
 
-**GM:** TJ (Tom)
+**GM:** TJ (Tom)  
 **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
-**Frequency**: ~Once a month
+**Frequency**: ~Once a month  
 **Time & Duration**: 1945 UTC for 2~3h  
 **Sign-up**: First come first served, 2 to 4 players  
 **TTRPG system**: [Cy_Borg](https://freeleaguepublishing.com/games/cy_borg/)  
-**Genre**: Dark Cyberpunk
+**Genre**: Dark Cyberpunk  
 **VTT**: Owlbear Rodeo  
 **Language**: English  
 **Communication**: Discord voice (video is optional)  
