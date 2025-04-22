@@ -1,7 +1,7 @@
 # {{ page.title }}
 {: .text-right}
 
-#### {{ page.region}} - {{ page.timestamp | date: "%B %-d" }} 
+#### {{ page.region}}
 {: .text-right}
 
 

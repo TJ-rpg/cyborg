@@ -5,7 +5,7 @@ title: 8th March
 parent: 2025
 nav_order: 21
 timestamp: 2025-03-08
-region: BUGS!
+region: BUGS! - Session 1
 images:
 
 ---
