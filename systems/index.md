@@ -9,8 +9,7 @@ nav_order: 99
 
 # ***Cy_Borg***
 
-- The ***Cy_Borg*** core rules and extras are available to buy [here](https://freeleaguepublishing.com/shop/cy_borg/)
-- Extensions to the base rules, when needed, will be published on this website.
+- The ***Cy_Borg*** core rules and extras are available to buy [here.](https://freeleaguepublishing.com/shop/cy_borg/)
 
 ## Character Generation
 
@@ -27,28 +26,13 @@ nav_order: 99
 ---
 <div style="height:50vh; width:110%;">
   <iframe
-    src="https://null.perchance.org/unsettled-chargen"
+    src="https://cy-borg.makedatanotlore.dev/"
     style="border:none; width:90%; height:100%;"
     allowfullscreen
   ></iframe>
 </div>
 </details>
 
-<details close markdown="block">
-  <summary id="index">
-    <b>Kettlewright (Original Generator)</b><br> 
-  </summary>
-{: .text-delta}
----
-<div style="height:80vh; width:100%;">
-  <iframe
-    src="https://kettlewright.com/gen/character?darkmode=true"
-    style="border:none; width:100%; height:100%;"
-    allowfullscreen
-  ></iframe>
-</div>
-**Note**: Discard the *Omens* section above.
-</details>
 
 # House Rules
 ## Abstracted living and travel
