@@ -10,7 +10,7 @@ plugins:
   - jekyll-redirect-from
 
 aux_links:
-  Repository: https://github.com/terra-campaigns/unsettled
+  Repository: https://github.com/TJ-rpg/cyborg
 
 favicon_ico: "/imgs/favicon.ico"
 
