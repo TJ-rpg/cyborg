@@ -13,4 +13,4 @@ footer_content:
 
 {% include header_directories.md %}
 
-The events of this campaign explore [Sigisfarne](../../directory/Player%20Characters/index.md) and its surroundings, such as the [Duskmeadow Fringe](../../directory/DuskmeadowFringe/index.md) and the [Kryptwood](../../directory/Kryptwood/index.md).
+
