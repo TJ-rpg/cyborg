@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "campaigns/2025/index.md",
+                "file": "campaigns/2025/8th_March_2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "8th_March_2025"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "campaigns/2025/index.md",
+                "file": "campaigns/2025/8th_March_2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for 8th_March_2025"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "campaigns/2025/index.md",
+                "file": "campaigns/2025/8th_March_2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from 8th_March_2025"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "campaigns/2025/index.md",
+                "file": "campaigns/2025/8th_March_2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 8th_March_2025"
             }
           }
         ]
@@ -170,9 +170,10 @@
   },
   "active": "ee63313eb3104c99",
   "lastOpenFiles": [
-    "[[.md",
     "campaigns/2025/index.md",
     "campaigns/2025/8th_March_2025.md",
+    "index.md",
+    "[[.md",
     "2025-03-08.md"
   ]
 }
